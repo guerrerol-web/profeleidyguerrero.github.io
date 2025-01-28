@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Guerrerol-web",
+    "description": "",
+    "home_page_url": "https://guerrerol-web.github.io/profeleidyguerrero.github.oi",
+    "feed_url": "https://guerrerol-web.github.io/profeleidyguerrero.github.oi/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "profeleidyguerrero.github.io"
+    },
+    "items": [
+        {
+            "id": "https://guerrerol-web.github.io/profeleidyguerrero.github.oi/estrategias-pedagogicas-para-la-lectoescritura-en-los-ninos-y-ninas-2.html",
+            "url": "https://guerrerol-web.github.io/profeleidyguerrero.github.oi/estrategias-pedagogicas-para-la-lectoescritura-en-los-ninos-y-ninas-2.html",
+            "title": "Estrategias pedagógicas para la lectoescritura en los niños y niñas  ",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/Diapositiva1.JPG\" alt=\"\" width=\"525\" height=\"394\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/responsive/Diapositiva1-xs.JPG 300w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/responsive/Diapositiva1-sm.JPG 480w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/responsive/Diapositiva1-md.JPG 768w\"></figure>",
+            "author": {
+                "name": "profeleidyguerrero.github.io"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-28T11:31:05-05:00",
+            "date_modified": "2025-01-28T11:31:05-05:00"
+        },
+        {
+            "id": "https://guerrerol-web.github.io/profeleidyguerrero.github.oi/inicio.html",
+            "url": "https://guerrerol-web.github.io/profeleidyguerrero.github.oi/inicio.html",
+            "title": "INICIO ",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/Diapositiva1.JPG\" alt=\"\" width=\"384\" height=\"288\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/responsive/Diapositiva1-xs.JPG 300w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/responsive/Diapositiva1-sm.JPG 480w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/responsive/Diapositiva1-md.JPG 768w\"></figure>",
+            "author": {
+                "name": "profeleidyguerrero.github.io"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-28T11:28:00-05:00",
+            "date_modified": "2025-01-28T11:28:18-05:00"
+        }
+    ]
+}

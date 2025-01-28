@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Guerrerol-web</title>
+    <link href="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/feed.xml" rel="self" />
+    <link href="https://guerrerol-web.github.io/profeleidyguerrero.github.oi" />
+    <updated>2025-01-28T11:31:05-05:00</updated>
+    <author>
+        <name>profeleidyguerrero.github.io</name>
+    </author>
+    <id>https://guerrerol-web.github.io/profeleidyguerrero.github.oi</id>
+
+    <entry>
+        <title>Estrategias pedagógicas para la lectoescritura en los niños y niñas  </title>
+        <author>
+            <name>profeleidyguerrero.github.io</name>
+        </author>
+        <link href="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/estrategias-pedagogicas-para-la-lectoescritura-en-los-ninos-y-ninas-2.html"/>
+        <id>https://guerrerol-web.github.io/profeleidyguerrero.github.oi/estrategias-pedagogicas-para-la-lectoescritura-en-los-ninos-y-ninas-2.html</id>
+
+        <updated>2025-01-28T11:31:05-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/Diapositiva1.JPG" alt="" width="525" height="394" sizes="(max-width: 48em) 100vw, 768px" srcset="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/responsive/Diapositiva1-xs.JPG 300w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/responsive/Diapositiva1-sm.JPG 480w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/4/responsive/Diapositiva1-md.JPG 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>INICIO </title>
+        <author>
+            <name>profeleidyguerrero.github.io</name>
+        </author>
+        <link href="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/inicio.html"/>
+        <id>https://guerrerol-web.github.io/profeleidyguerrero.github.oi/inicio.html</id>
+
+        <updated>2025-01-28T11:28:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/Diapositiva1.JPG" alt="" width="384" height="288" sizes="(max-width: 48em) 100vw, 768px" srcset="https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/responsive/Diapositiva1-xs.JPG 300w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/responsive/Diapositiva1-sm.JPG 480w ,https://guerrerol-web.github.io/profeleidyguerrero.github.oi/media/posts/3/responsive/Diapositiva1-md.JPG 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
